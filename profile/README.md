@@ -1,4 +1,4 @@
-### Hi there 👋, im maggi373 CEO of Thorfusion.
+### Hi there 👋, welcome to Thorfusion github!.
 
 You can find us on terralization's [discord](https://discord.gg/TnTeKfD) server.
 
