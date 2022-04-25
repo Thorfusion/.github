@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to Thorfusion github!.
+### Hi there 👋, welcome to Thorfusion's github!.
 
 You can find us on terralization's [discord](https://discord.gg/TnTeKfD) server.
 
